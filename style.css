@@ -35,3 +35,25 @@ footer {
 .shadow-2 {
     text-shadow: 1px 1px 2px black;
 }
+
+/* Icono Whsapp */
+.btn-wsp {
+    position: fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: green;
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgb(50, 50, 50);
+    z-index: 100;
+}
+.btn-wsp:hover {
+    text-decoration: none;
+    color: green;
+    background: #fff;
+}
