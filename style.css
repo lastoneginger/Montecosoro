@@ -66,10 +66,11 @@ footer {
 }
 .gallery .img-galery {
 	background-color: #ffffff;
-	padding: 15px;
+	padding: 0.2rem;
 	width: 100%;
 	box-shadow: 0 0 15px rgba(0,0,0,0.3);
 	cursor: pointer;
+	border-radius: 0.5rem;
 }
 #gallery-modal .modal-img{
 	width: 100%;
