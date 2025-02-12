@@ -26,7 +26,7 @@ body {
 @media (max-width: 575.98px) { 
   .carousel-video {
     overflow: hidden;
-    height: 480px;
+    height: 540px;
   } 
  }
 
